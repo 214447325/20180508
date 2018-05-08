@@ -1,0 +1,62 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\20180508\.metadata\.plugins\org.eclipse.core.resources\.projects\demo\com.python.pydev.analysis\v2_indexcache
+laweb.models|1525744424725988000|F:\20180508\demo\laweb\models.py
+demo.settings|1525744506883688000|F:\20180508\demo\demo\settings.py
+laweb.__init__|1525743592076364000|F:\20180508\demo\laweb\__init__.py
+demo.wsgi|1525743483467152000|F:\20180508\demo\demo\wsgi.py
+demo.urls|1525743483465151000|F:\20180508\demo\demo\urls.py
+demo.__init__|1525743483469152000|F:\20180508\demo\demo\__init__.py
+manage|1525743483460151000|F:\20180508\demo\manage.py
+laweb.migrations.__init__|1525743592079364000|F:\20180508\demo\laweb\migrations\__init__.py
+laweb.migrations.0001_initial|1525744516766253000|F:\20180508\demo\laweb\migrations\0001_initial.py
+laweb.views|1525743592074363000|F:\20180508\demo\laweb\views.py
+laweb.apps|1525743592070363000|F:\20180508\demo\laweb\apps.py
+laweb.tests|1525743592073363000|F:\20180508\demo\laweb\tests.py
+laweb.admin|1525743592068363000|F:\20180508\demo\laweb\admin.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+4=laweb.models
+8=LaWeb
+1=demo.settings
+7=Migration
+5=laweb.migrations.0001_initial
+9=LawebConfig
+2=demo.wsgi
+3=laweb.apps
+6=demo.urls
+-- END DICTIONARY
+-- START TREE 1
+19
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+law|2|LawebConfig!25@LaWeb!33@
+mid|1|MIDDLEWARE!11@
+mig|1|Migration!41@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!51@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+8
+dep|1|dependencies!7&43@
+ini|1|initial!7&43@
+lam|1|laMoney!8&35@
+lap|1|laPosition!8&35@
+lar|1|laReleaseTime!8&35@
+lat|2|laType!8&35@laTitle!8&35@
+nam|1|name!9&27@
+ope|1|operations!7&43@
+-- END TREE

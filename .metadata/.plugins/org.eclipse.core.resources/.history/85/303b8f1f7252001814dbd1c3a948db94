@@ -1,0 +1,14 @@
+from django.db import models
+
+# Create your models here.
+class LaWeb(models.Model):
+    # 企业的标题
+    laTitle = models.CharField(max_length=10)
+    # 薪资
+    laMoney = models.CharField(max_length=10)
+    # 职位
+    laPosition = models.CharField(max_length=20)
+    # 企业类型
+    laType = models.CharField(max_length=30)
+    # 发布时间
+    laReleaseTime = models.CharField(max_length=20)
